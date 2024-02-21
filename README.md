@@ -22,7 +22,7 @@ pip install selenium beautifulsoup4 requests google-generativeai
 2. **Replace `"MY_API_KEY"` with your actual Gemini API key:**
 
 - Open `newscraper TOI.ipynb` and edit the `genai.configure(api_key="MY_API_KEY")` line.
-- You can obtain your API key from [https://cloud.google.com/ai/generative-ai](https://cloud.google.com/ai/generative-ai)
+- You can obtain your API key from [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
 
 3. **Configure form filling:**
 
